@@ -1,0 +1,11 @@
+/Users/cesar/Code/ArmyBots/TelegramBot/bin/Debug/netcoreapp2.1/TelegramBot.deps.json
+/Users/cesar/Code/ArmyBots/TelegramBot/bin/Debug/netcoreapp2.1/TelegramBot.runtimeconfig.json
+/Users/cesar/Code/ArmyBots/TelegramBot/bin/Debug/netcoreapp2.1/TelegramBot.runtimeconfig.dev.json
+/Users/cesar/Code/ArmyBots/TelegramBot/bin/Debug/netcoreapp2.1/TelegramBot.dll
+/Users/cesar/Code/ArmyBots/TelegramBot/bin/Debug/netcoreapp2.1/TelegramBot.pdb
+/Users/cesar/Code/ArmyBots/TelegramBot/obj/Debug/netcoreapp2.1/TelegramBot.csprojAssemblyReference.cache
+/Users/cesar/Code/ArmyBots/TelegramBot/obj/Debug/netcoreapp2.1/TelegramBot.csproj.CoreCompileInputs.cache
+/Users/cesar/Code/ArmyBots/TelegramBot/obj/Debug/netcoreapp2.1/TelegramBot.AssemblyInfoInputs.cache
+/Users/cesar/Code/ArmyBots/TelegramBot/obj/Debug/netcoreapp2.1/TelegramBot.AssemblyInfo.cs
+/Users/cesar/Code/ArmyBots/TelegramBot/obj/Debug/netcoreapp2.1/TelegramBot.dll
+/Users/cesar/Code/ArmyBots/TelegramBot/obj/Debug/netcoreapp2.1/TelegramBot.pdb
